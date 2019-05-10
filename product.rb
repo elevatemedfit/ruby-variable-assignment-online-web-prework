@@ -3,4 +3,4 @@ def add_numbers(a,b)
   puts sum
 end
 
-add_numbers
+(12,10)
